@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    font-size: 16pt;
+    background: rgb(92,92,218);
+}
+input {
+    font-family: Arial;
+    font-size: 14pt;
+}
+div#resposta{
+    background: white;
+    text-align: left;
+    padding: 100px;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+}
